@@ -14,6 +14,7 @@ Various git utilities.
 | [git_is_empty]         | [![][git_is_empty-travis-badge]][git_is_empty-travis-link]                 |
 | [git_is_detached_head] | [![][git_is_detached_head-travis-badge]][git_is_detached_head-travis-link] |
 | [git_branch_name]      | [![][git_branch_name-travis-badge]][git_branch_name-travis-link]           |
+| [git_untracked_files]  | [![][git_untracked_files-travis-badge]][git_untracked_files-travis-link]   |
 
 ## Install
 
@@ -59,3 +60,7 @@ fisher i git_util
 [git_branch_name]: https://github.com/fishery/git_branch_name
 [git_branch_name-travis-link]: https://travis-ci.org/fishery/git_branch_name
 [git_branch_name-travis-badge]: https://img.shields.io/travis/fishery/git_branch_name.svg?style=flat-square
+
+[git_untracked_files]: https://github.com/fishery/git_untracked_files
+[git_untracked_files-travis-link]: https://travis-ci.org/fishery/git_untracked_files
+[git_untracked_files-travis-badge]: https://img.shields.io/travis/fishery/git_untracked_files.svg?style=flat-square

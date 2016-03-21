@@ -6,3 +6,4 @@ git_is_touched
 git_is_stashed
 git_is_empty
 git_is_detached_head
+git_untracked_files
