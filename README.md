@@ -31,6 +31,6 @@ fisher i git_util
 [slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
 [Fisherman]: https://github.com/fisherman/fisherman
 
-[git_util]: https://github.com/fishery/git_util
-[git_util-travis-link]: https://travis-ci.org/fishery/git_util
-[git_util-travis-badge]: https://img.shields.io/travis/fishery/git_util.svg?style=flat-square
+[git_util]: https://github.com/fisherman/git_util
+[git_util-travis-link]: https://travis-ci.org/fisherman/git_util
+[git_util-travis-badge]: https://img.shields.io/travis/fisherman/git_util.svg?style=flat-square
