@@ -7,10 +7,10 @@ Various git utilities.
 
 ## Install
 
-With [Fisherman]
+With [fisherman]
 
 ```
-fisher i git_util
+fisher git_util
 ```
 
 ## Functions
@@ -29,7 +29,7 @@ fisher i git_util
 
 [slack-link]: https://fisherman-wharf.herokuapp.com/
 [slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
-[Fisherman]: https://github.com/fisherman/fisherman
+[fisherman]: https://github.com/fisherman/fisherman
 
 [git_util]: https://github.com/fisherman/git_util
 [git_util-travis-link]: https://travis-ci.org/fisherman/git_util
