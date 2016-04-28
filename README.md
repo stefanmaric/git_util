@@ -27,10 +27,11 @@ fisher git_util
 | git_is_touched         | Test if there are changes in a repository working tree                     |    
 | git_untracked_files    | Get the number of untracked files in a repository                          |    
 
-[slack-link]: https://fisherman-wharf.herokuapp.com/
-[slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
+[slack-link]: https://fisherman-wharf.herokuapp.com
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+
 [fisherman]: https://github.com/fisherman/fisherman
 
 [git_util]: https://github.com/fisherman/git_util
 [git_util-travis-link]: https://travis-ci.org/fisherman/git_util
-[git_util-travis-badge]: https://img.shields.io/travis/fisherman/git_util.svg?style=flat-square
+[git_util-travis-badge]: https://img.shields.io/travis/fisherman/git_util.svg
