@@ -3,7 +3,7 @@
 
 # Git_util
 
-Various git utility functions.
+Git utility functions.
 
 ## Install
 
