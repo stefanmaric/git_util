@@ -3,7 +3,7 @@ function git_is_touched -d "Test if there are any changes in the working tree"
         return 1
     end
 
-    command git status --porcelain ^ /dev/null | awk '
+    command git status --porcelain ^ /dev/null | command awk '
         // {
             z++
             exit 0
