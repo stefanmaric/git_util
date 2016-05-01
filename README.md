@@ -26,6 +26,7 @@ fisher git_util
 | git_is_stashed         | Test if there are changes recorded in the stash                            |    
 | git_is_touched         | Test if there are changes in a repository working tree                     |    
 | git_untracked_files    | Get the number of untracked files in a repository                          |    
+| git_ahead              | Get a character that indicates if the current repo is in sync, ahead, behind or has diverged from its upstream. Default: '', '+', '-', '±'                |    
 
 [slack-link]: https://fisherman-wharf.herokuapp.com
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
