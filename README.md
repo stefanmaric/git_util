@@ -1,4 +1,4 @@
-[![Build Status][git_util-travis-badge]][git_util-travis-link]
+[![Build Status][travis-badge]][travis-link]
 [![Slack Room][slack-badge]][slack-link]
 
 # Git_util
@@ -28,11 +28,11 @@ fisher git_util
 | git_untracked_files    | Get the number of untracked files in a repository                          |    
 | git_ahead              | Get a character that indicates if the current repo is in sync, ahead, behind or has diverged from its upstream. Default: '', '+', '-', '±'                |    
 
-[slack-link]: https://fisherman-wharf.herokuapp.com
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 
 [fisherman]: https://github.com/fisherman/fisherman
-
 [git_util]: https://github.com/fisherman/git_util
-[git_util-travis-link]: https://travis-ci.org/fisherman/git_util
-[git_util-travis-badge]: https://img.shields.io/travis/fisherman/git_util.svg
+
+[slack-link]: https://fisherman-wharf.herokuapp.com
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+[travis-link]: https://travis-ci.org/fisherman/git_util
+[travis-badge]: https://img.shields.io/travis/fisherman/git_util.svg
