@@ -3,7 +3,7 @@
 
 # Git_util
 
-Git utility functions.
+Git utility functions for [fish].
 
 ## Install
 
@@ -36,3 +36,5 @@ fisher git_util
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 [travis-link]: https://travis-ci.org/fisherman/git_util
 [travis-badge]: https://img.shields.io/travis/fisherman/git_util.svg
+
+[fish]: https://fishshell.com
