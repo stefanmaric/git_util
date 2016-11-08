@@ -24,6 +24,7 @@ fisher git_util
 | git_is_repo            | Test if the current directory is a repository                              |
 | git_is_staged          | Test if there are changes staged for commit                                |
 | git_is_stashed         | Test if there are changes recorded in the stash                            |
+| git_is_tag             | Test if a repository's HEAD points to a tag.                               |
 | git_is_touched         | Test if there are changes in a repository working tree                     |
 | git_untracked_files    | Get the number of untracked files in a repository                          |
 | git_ahead              | Get a character that indicates if the current repo is in sync, ahead, behind or has diverged from its upstream. Default: '', '+', '-', '±'                |
