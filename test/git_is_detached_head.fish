@@ -1,6 +1,6 @@
 set -l path $DIRNAME/.t-$TESTNAME-(random)
 
-function -S setup
+function setup -S
     mkdir -p $path/{foo,bar,baz}
 
     begin
@@ -29,7 +29,7 @@ function -S setup
     end > /dev/null ^ /dev/null
 end
 
-function -S teardown
+function teardown -S
     rm -rf $path
 end
 
