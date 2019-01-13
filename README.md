@@ -9,7 +9,7 @@ Convenient git utility functions for the [fish shell](https://fishshell.com).
 With [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```
-fisher add fishpkg/git-util
+fisher add fishpkg/fish-git-util
 ```
 
 ## Functions
