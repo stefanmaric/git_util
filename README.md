@@ -1,7 +1,5 @@
 # fish-git-util
 
-[![Build Status](https://img.shields.io/travis/fisherman/git_util.svg)](https://travis-ci.org/fisherman/git_util)
-
 Convenient git utility functions for the [fish shell](https://fishshell.com).
 
 ## Installation
